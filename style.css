@@ -13,7 +13,13 @@ th{
 }
 
 .btn{
-    color: #c0b9b9;
     background-color: black;
     border-radius: 20%;
+}
+
+a{
+    color: red;
+}
+th{
+    width: 100%;
 }
